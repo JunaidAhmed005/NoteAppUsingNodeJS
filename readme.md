@@ -1,18 +1,18 @@
-##This is the console based node app.
-***********************************
+<h2>This is the console based node app.</h2>
+*************************************************************
 
-###To run this app in cmd:
-***********************
+<h3>To run this app in cmd:<h3>
+*************************************************
 
-####for adding note:
+<h2>for adding note:</h4>
     node app.js add --title or -t "title of app" --body or -b "body text"
 
-####for listing notes:
+<h2>for listing notes:</h4>
     node app.js list 
     
-####for reading note:
+<h2>for reading note:</h4>
     node app.js read --title or -t "title of app" 
 
-####for removing note:
+<h2>for removing note:</h4>
     node app.js remove --title or -t "title of app" 
 
